@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627564350695",
+    "project_id": "hammerapp-63f37",
+    "storage_bucket": "hammerapp-63f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627564350695:android:f107734901fb2c9fd36642",
+        "android_client_info": {
+          "package_name": "com.example.hammerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627564350695-of7f0clb0b5ic330upflvnq6p8e7ju1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwU3W7osvCqVSULBiimFL_HRSAhWQMzPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627564350695-of7f0clb0b5ic330upflvnq6p8e7ju1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
